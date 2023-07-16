@@ -14,14 +14,14 @@ Resources
 
 ### Reference Material
 
-* [Colors](docs/reference-colors.md)
-* [Markers](docs/reference-markers.md)
-* [Rulers](docs/reference-rulers.md)
+* [Colors](docs/reference-colors.md) - Exact colors used per color square
+* [Markers](docs/reference-markers.md) - AR.js Marker IDs use for AR Tracking
+* [Rulers](docs/reference-rulers.md) - Information on Rulers used on card
 
 ### Artwork
 
-* [Card](card/)
-* [Marketing](artwork/)
+* [Card](card/) - Source files of the front and back of card
+* [Marketing](artwork/) - Content showing how to use the card
 
 Information
 ---
