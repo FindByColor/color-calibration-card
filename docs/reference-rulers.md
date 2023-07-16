@@ -7,7 +7,7 @@ Reference Rulers
 
 > The following table contains the marker details needed to detect this card using [AR.js](https://github.com/AR-js-org/AR.js).
 
-![Preview](../card/card-reference-rulers.png "Preview")
+<img src="../card/card-reference-rulers.png" width="320" alt="" />
 
 SIDE  | UNIT | LENGTH
 ------|------|-------

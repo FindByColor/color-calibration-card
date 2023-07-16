@@ -7,7 +7,7 @@ Reference Markers
 
 > The following table contains the marker details needed to detect this card using [AR.js](https://github.com/AR-js-org/AR.js).
 
-![Preview](../card/card-reference-markers.png "Preview")
+<img src="../card/card-reference-markers.png" width="320" alt="" />
 
 LOCATION     | ID | MARKER TYPE | DETECTION MODE  | MATRIX CODE TYPE | LABELING MODE
 -------------|:--:|-------------|-----------------|------------------|--------------

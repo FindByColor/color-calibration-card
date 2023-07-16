@@ -7,9 +7,9 @@ Reference Colors
 
 > The following table contains the exact colors used in the color calibration card.
 
-![Preview](../card/card-reference-colors.png "Preview")
+<img src="../card/card-reference-colors.png" width="320" alt="" />
 
-*                                                               | ID | RGB HEX | GROUP               | NAME          | C  | M  | Y   | K  | R   | G   | B   | H   | S  | B
+.                                                               | ID | RGB HEX | GROUP               | NAME          | C  | M  | Y   | K  | R   | G   | B   | H   | S  | B
 :--------------------------------------------------------------:|:--:|---------|---------------------|---------------|:--:|:--:|:---:|:--:|:---:|:---:|:---:|:---:|:--:|:--:
 ![#735244](https://via.placeholder.com/15/735244/000000?text=+) | 1  | #735244 | Natural             | Dark Skin     | 44 | 62 | 68  | 32 | 115 | 82  | 68  | 16  | 40 | 45
 ![#C29682](https://via.placeholder.com/15/C29682/000000?text=+) | 2  | #C29682 | Natural             | Light Skin    | 24 | 42 | 48  | 1  | 194 | 150 | 130 | 18  | 32 | 76
